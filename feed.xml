@@ -26,6 +26,18 @@
       <link>https://sophia-podcast-feed.pages.dev</link>
     </image>
     <!-- EPISODES_START -->
+    <item>
+      <title>The Tyranny of Tuesday Mornings People's peculiar patterns of procrastination and morning routine rituals offer a fascinating window into their underlying motivations and stress management strategies.</title>
+      <description>Tuesday mornings are a peculiar thing. You wake up feeling vaguely optimistic, only to be swiftly derailed by the sheer terror of getting out of bed. It's as if your brain is trying to negotiate a deal with you: five…</description>
+      <itunes:summary>Tuesday mornings are a peculiar thing. You wake up feeling vaguely optimistic, only to be swiftly derailed by the sheer terror of getting out of bed. It's as if your brain is trying to negotiate a deal with you: five…</itunes:summary>
+      <pubDate>Fri, 12 Jun 2026 09:09:25 +0000</pubDate>
+      <enclosure url="https://sophia-podcast-feed.pages.dev/episodes/episode_001_20260612.mp3" length="9098597" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://sophia-podcast-feed.pages.dev/episodes/episode_001_20260612.mp3</guid>
+      <itunes:duration>9:29</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES_END -->
   </channel>
 </rss>
