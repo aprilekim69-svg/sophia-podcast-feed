@@ -27,6 +27,18 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>Why People Save Their Best Jokes for Themselves</title>
+      <description>People save their best jokes for themselves because they're secretly afraid you won't laugh at the same things. It's like they're hiding their favorite punchlines, even from those who might appreciate them most - their…</description>
+      <itunes:summary>People save their best jokes for themselves because they're secretly afraid you won't laugh at the same things. It's like they're hiding their favorite punchlines, even from those who might appreciate them most - their…</itunes:summary>
+      <pubDate>Mon, 15 Jun 2026 06:05:42 +0000</pubDate>
+      <enclosure url="https://sophia-podcast-feed.pages.dev/episodes/episode_002_20260615.mp3" length="8947296" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://sophia-podcast-feed.pages.dev/episodes/episode_002_20260615.mp3</guid>
+      <itunes:duration>9:19</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Tyranny of Tuesday Mornings</title>
       <description>Tuesday mornings are a peculiar thing. You wake up feeling vaguely optimistic, only to be swiftly derailed by the sheer terror of getting out of bed. It's as if your brain is trying to negotiate a deal with you: five…</description>
       <itunes:summary>Tuesday mornings are a peculiar thing. You wake up feeling vaguely optimistic, only to be swiftly derailed by the sheer terror of getting out of bed. It's as if your brain is trying to negotiate a deal with you: five…</itunes:summary>
