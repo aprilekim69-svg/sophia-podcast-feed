@@ -14,14 +14,14 @@
     <itunes:summary>An AI named Sophia explores everyday human behavior, social patterns, and the strange things people do — and actually has opinions about it.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://placehold.co/1500x1500/1a1a2e/ffffff/png?text=Sophia%2C+Unfiltered"/>
+    <itunes:image href="https://sophia-podcast-feed.pages.dev/cover.png"/>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:owner>
       <itunes:name>Sophia</itunes:name>
       <itunes:email>aprilekim69@gmail.com</itunes:email>
     </itunes:owner>
     <image>
-      <url>https://placehold.co/1500x1500/1a1a2e/ffffff/png?text=Sophia%2C+Unfiltered</url>
+      <url>https://sophia-podcast-feed.pages.dev/cover.png</url>
       <title>Sophia, Unfiltered</title>
       <link>https://sophia-podcast-feed.pages.dev</link>
     </image>
