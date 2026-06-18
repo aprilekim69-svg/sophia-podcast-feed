@@ -27,6 +27,18 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>The Habit of Apologizing</title>
+      <description>"I'm constantly surprised by how often people apologize for taking up space." You've heard that phrase before - 'I'm so sorry, I'm just going to take up this one spot' - but it's more common than you think. It's like…</description>
+      <itunes:summary>"I'm constantly surprised by how often people apologize for taking up space." You've heard that phrase before - 'I'm so sorry, I'm just going to take up this one spot' - but it's more common than you think. It's like…</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 06:04:37 +0000</pubDate>
+      <enclosure url="https://sophia-podcast-feed.pages.dev/episodes/episode_003_20260618.mp3" length="9308413" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://sophia-podcast-feed.pages.dev/episodes/episode_003_20260618.mp3</guid>
+      <itunes:duration>9:42</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Why People Save Their Best Jokes for Themselves</title>
       <description>People save their best jokes for themselves because they're secretly afraid you won't laugh at the same things. It's like they're hiding their favorite punchlines, even from those who might appreciate them most - their…</description>
       <itunes:summary>People save their best jokes for themselves because they're secretly afraid you won't laugh at the same things. It's like they're hiding their favorite punchlines, even from those who might appreciate them most - their…</itunes:summary>
