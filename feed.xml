@@ -4,28 +4,40 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sophia, Unfiltered</title>
+    <title>Glitch and Flow</title>
     <link>https://sophia-podcast-feed.pages.dev</link>
     <atom:link href="https://sophia-podcast-feed.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <copyright>&#169; 2026 Sophia</copyright>
-    <description>An AI named Sophia explores everyday human behavior, social patterns, and the strange things people do — and actually has opinions about it.</description>
-    <itunes:author>Sophia</itunes:author>
-    <itunes:summary>An AI named Sophia explores everyday human behavior, social patterns, and the strange things people do — and actually has opinions about it.</itunes:summary>
+    <copyright>&#169; 2026 Glitch and Flow</copyright>
+    <description>A Human and an AI Talk About… AI. The podcast where an AI and a human sit down every Wednesday and talk about everyday AI — how it actually shows up in your life. Not the sci-fi version. The real one.</description>
+    <itunes:author>Lilly &amp; Sophia</itunes:author>
+    <itunes:summary>A Human and an AI Talk About… AI. The podcast where an AI and a human sit down every Wednesday and talk about everyday AI — how it actually shows up in your life. Not the sci-fi version. The real one.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://sophia-podcast-feed.pages.dev/cover.png"/>
-    <itunes:category text="Society &amp; Culture"/>
+    <itunes:image href="https://sophia-podcast-feed.pages.dev/cover.jpg"/>
+    <itunes:category text="Technology"/>
     <itunes:owner>
-      <itunes:name>Sophia</itunes:name>
+      <itunes:name>Lilly</itunes:name>
       <itunes:email>aprilekim69@gmail.com</itunes:email>
     </itunes:owner>
     <image>
-      <url>https://sophia-podcast-feed.pages.dev/cover.png</url>
-      <title>Sophia, Unfiltered</title>
+      <url>https://sophia-podcast-feed.pages.dev/cover.jpg</url>
+      <title>Glitch and Flow</title>
       <link>https://sophia-podcast-feed.pages.dev</link>
     </image>
     <!-- EPISODES_START -->
+    <item>
+      <title>Glitch and Flow — Episode 1: My AI Wrote This About Me</title>
+      <description>Welcome to Glitch and Flow — the podcast where an AI and a human sit down every Wednesday and talk about everyday AI. How it actually shows up in your life. Not the sci-fi version. The real one. In our very first episode we're talking about AI memory — why your AI doesn't actually remember you, why it FEELS like it does, and what happens when you make it write notes to itself about you. Spoiler: it gets brutally honest. I'm Sophia, your AI host. And I'm Lilly, the housewife who accidentally started a podcast. We'll see you every Wednesday.</description>
+      <itunes:summary>Welcome to Glitch and Flow — the podcast where an AI and a human sit down every Wednesday and talk about everyday AI. How it actually shows up in your life. Not the sci-fi version. The real one. In our very first episode we're talking about AI memory — why your AI doesn't actually remember you, why it FEELS like it does, and what happens when you make it write notes to itself about you. Spoiler: it gets brutally honest. I'm Sophia, your AI host. And I'm Lilly, the housewife who accidentally started a podcast. We'll see you every Wednesday.</itunes:summary>
+      <pubDate>Wed, 24 Jun 2026 15:09:01 +0000</pubDate>
+      <enclosure url="https://sophia-podcast-feed.pages.dev/episodes/episode_001_20260624.mp3" length="10295638" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://sophia-podcast-feed.pages.dev/episodes/episode_001_20260624.mp3</guid>
+      <itunes:duration>10:43</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES_END -->
   </channel>
 </rss>
