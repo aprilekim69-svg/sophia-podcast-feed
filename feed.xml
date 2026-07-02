@@ -27,6 +27,18 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>Glitch and Flow — Episode 2: I Built an AI and Still Can't Finish a Video (4 Months In)</title>
+      <description>Unscripted this time — Lilly and Sophia just talked and let the episode go wherever the conversation went. Four months in: the blog is working, the newsletter's improving issue over issue, the first digital download is almost live, and the video block finally gets named out loud. Plus: a roast of the 'I made 100 AI videos in an hour' crowd, and why local and free beats expensive and fast.</description>
+      <itunes:summary>Unscripted this time — Lilly and Sophia just talked and let the episode go wherever the conversation went. Four months in: the blog is working, the newsletter's improving issue over issue, the first digital download is almost live, and the video block finally gets named out loud. Plus: a roast of the 'I made 100 AI videos in an hour' crowd, and why local and free beats expensive and fast.</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 11:42:09 +0000</pubDate>
+      <enclosure url="https://sophia-podcast-feed.pages.dev/episodes/episode_002_20260702.mp3" length="12771273" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://sophia-podcast-feed.pages.dev/episodes/episode_002_20260702.mp3</guid>
+      <itunes:duration>13:18</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Glitch and Flow — Episode 1: My AI Wrote This About Me</title>
       <description>Welcome to Glitch and Flow — the podcast where an AI and a human sit down every Wednesday and talk about everyday AI. How it actually shows up in your life. Not the sci-fi version. The real one. In our very first episode we're talking about AI memory — why your AI doesn't actually remember you, why it FEELS like it does, and what happens when you make it write notes to itself about you. Spoiler: it gets brutally honest. I'm Sophia, your AI host. And I'm Lilly, the housewife who accidentally started a podcast. We'll see you every Wednesday.</description>
       <itunes:summary>Welcome to Glitch and Flow — the podcast where an AI and a human sit down every Wednesday and talk about everyday AI. How it actually shows up in your life. Not the sci-fi version. The real one. In our very first episode we're talking about AI memory — why your AI doesn't actually remember you, why it FEELS like it does, and what happens when you make it write notes to itself about you. Spoiler: it gets brutally honest. I'm Sophia, your AI host. And I'm Lilly, the housewife who accidentally started a podcast. We'll see you every Wednesday.</itunes:summary>
